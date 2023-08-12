@@ -1,2 +1,2 @@
 # SunBlog
-AA small blog website
+A small blog website
